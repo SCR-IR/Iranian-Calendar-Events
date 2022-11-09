@@ -6,7 +6,6 @@
 
 const MonasebatHa = {
 
-
   shamsi: {
     1 /*فروردین*/: {
       1: {
@@ -73,7 +72,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "ولادت زرتشت",
+            text: "زادروز زرتشت",
             taatil: 0,
             year: 0,
             asli: 1
@@ -181,7 +180,7 @@ const MonasebatHa = {
             asli: 1
           },
           {
-            text: "سالروز افتتاح حساب شماره‌ی 100 به فرمان امام خمینی (رحمة‌اللّه علیه) و تأسیس بنیاد مسکن انقلاب اسلامی",
+            text: "سالروز افتتاح حساب شماره‌ی ۱۰۰ به فرمان امام خمینی (رحمة‌اللّه علیه) و تأسیس بنیاد مسکن انقلاب اسلامی",
             taatil: 0,
             year: 1358,
             asli: 1
@@ -222,6 +221,12 @@ const MonasebatHa = {
         monasebat: [
           {
             text: "روز بزرگداشت سعدی",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+          {
+            text: "روز شهدای ورزشکار (همزمان با روز تولد شهید ابراهیم هادی)",
             taatil: 0,
             year: 0,
             asli: 1
@@ -323,7 +328,7 @@ const MonasebatHa = {
             asli: 1
           },
           {
-            text: "آغاز عملیات بیت المقدس",
+            text: "آغاز عملیات بیت‌المقدس",
             taatil: 0,
             year: 1361,
             asli: 0
@@ -454,6 +459,12 @@ const MonasebatHa = {
             year: 0,
             asli: 1
           },
+          {
+            text: "روز چهارمحال و بختیاری",
+            taatil: 0,
+            year: 0,
+            asli: 0
+          },
         ]
       },
 
@@ -556,7 +567,7 @@ const MonasebatHa = {
         taatil: 1,
         monasebat: [
           {
-            text: "قیام خونین 15 خرداد",
+            text: "قیام خونین ۱۵ خرداد",
             taatil: 1,
             year: 1342,
             asli: 1
@@ -574,7 +585,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "روز صنایع دستی",
+            text: "روز جهانی صنایع دستی - روز ملّی فرش",
             taatil: 0,
             year: 0,
             asli: 1
@@ -683,7 +694,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "شهادت مظلومانه‌ی آیت‌اللّه دکتر بهشتی و 72 تن از یاران امام با انفجار بمب به دست منافقان در دفتر مرکزی حزب جمهوری اسلامی",
+            text: "شهادت مظلومانه‌ی آیت‌اللّه دکتر بهشتی و ۷۲ تن از یاران امام با انفجار بمب به دست منافقان در دفتر مرکزی حزب جمهوری اسلامی",
             taatil: 0,
             year: 1360,
             asli: 1
@@ -841,6 +852,18 @@ const MonasebatHa = {
         ]
       },
 
+      22: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز بزرگداشت خوارزمی - روز فناوری اطلاعات",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+        ]
+      },
+
       23: {
         taatil: 0,
         monasebat: [
@@ -887,7 +910,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "اعلام پذیرش قطعنامه‌ی 598 شورای امنیت از سوی ایران",
+            text: "اعلام پذیرش قطعنامه‌ی ۵۹۸ شورای امنیت از سوی ایران",
             taatil: 0,
             year: 1367,
             asli: 0
@@ -931,6 +954,12 @@ const MonasebatHa = {
             text: "سالروز عملیات افتخار‌آفرین مرصاد",
             taatil: 0,
             year: 1367,
+            asli: 1
+          },
+          {
+            text: "روز مقاومت و پایداری",
+            taatil: 0,
+            year: 0,
             asli: 1
           },
         ]
@@ -1006,7 +1035,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "انفجار بمب‌های اتمی آمریکای جنایتکار در هیروشیما و ناکازاکی (6 و 9 اوت 1945 میلادی) با صدهاهزار کشته",
+            text: "انفجار بمب‌های اتمی آمریکای جنایتکار در هیروشیما و ناکازاکی (۶ و ۹ اوت ۱۹۴۵ میلادی) با صدهاهزار کشته",
             taatil: 0,
             year: 0,
             asli: 0
@@ -1179,7 +1208,7 @@ const MonasebatHa = {
             asli: 1
           },
           {
-            text: "شهادت سید‌علی اندرزگو (در روز 19 ماه مبارک رمضان)",
+            text: "شهادت سید‌علی اندرزگو (در روز ۱۹ ماه مبارک رمضان)",
             taatil: 0,
             year: 1357,
             asli: 1
@@ -1281,7 +1310,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "روز مبارزه بااستعمار انگلیس (سالروز شهادت رئیسعلی دلواری - 1294 هـ.ش)",
+            text: "روز مبارزه بااستعمار انگلیس (سالروز شهادت رئیسعلی دلواری - ۱۲۹۴ هـ.ش)",
             taatil: 0,
             year: 0,
             asli: 1
@@ -1311,6 +1340,12 @@ const MonasebatHa = {
             asli: 1
           },
           {
+            text: "روز علوم پایه (همزمان با روز تولد ابوریحان بیرونی)",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+          {
             text: "روز مردم‌شناسی",
             taatil: 0,
             year: 0,
@@ -1335,7 +1370,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "قیام 17 شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
+            text: "قیام ۱۷ شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
             taatil: 0,
             year: 1357,
             asli: 1
@@ -1420,6 +1455,30 @@ const MonasebatHa = {
 
 
     7 /*مهر*/: {
+      2: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز بزرگداشت شهدای منا",
+            taatil: 0,
+            year: 1394,
+            asli: 1
+          },
+        ]
+      },
+
+      4: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز سرباز",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+        ]
+      },
+
       5: {
         taatil: 0,
         monasebat: [
@@ -1609,6 +1668,12 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
+            text: "روز بزرگداشت ابوالفضل بیهقی",
+            taatil: 0,
+            year: 0,
+            asli: 0
+          },
+          {
             text: "شهادت مظلومانه‌ی آیت‌اللّه حاج سید مصطفی خمینی",
             taatil: 0,
             year: 1356,
@@ -1639,7 +1704,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "شهادت محمّدحسین فهمیده (بسیجی 13 ساله)",
+            text: "شهادت محمّدحسین فهمیده (بسیجی ۱۳ ساله)",
             taatil: 0,
             year: 1359,
             asli: 1
@@ -1793,6 +1858,12 @@ const MonasebatHa = {
             year: 0,
             asli: 1
           },
+          {
+            text: "روز نوآوری و فناوری ایران ساخت (همزمان با سالروز شهادت دکتر محسن فخری زاده در سال ۱۳۹۹)",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
         ]
       },
 
@@ -1827,7 +1898,7 @@ const MonasebatHa = {
             text: "شهادت میرزا‌کوچک‌خان جنگلی",
             taatil: 0,
             year: 1300,
-            asli: 0
+            asli: 1
           },
         ]
       },
@@ -1988,6 +2059,18 @@ const MonasebatHa = {
         ]
       },
 
+      4: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز بزرگداشت رودکی",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+        ]
+      },
+
       5: {
         taatil: 0,
         monasebat: [
@@ -2034,7 +2117,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی 9 دی 88)",
+            text: "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی ۹ دی ۸۸)",
             taatil: 0,
             year: 0,
             asli: 1
@@ -2056,6 +2139,18 @@ const MonasebatHa = {
             taatil: 0,
             year: 1367,
             asli: 0
+          },
+        ]
+      },
+
+      16: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز شهدای دانشجو (شهادت سیدحسن علم‌الهدی و همرزمان وی در هویزه)",
+            taatil: 0,
+            year: 0,
+            asli: 1
           },
         ]
       },
@@ -2114,6 +2209,18 @@ const MonasebatHa = {
         ]
       },
 
+      25: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز تاریخ‌نگاری انقلاب اسلامی (همزمان با سالروز صدور نامه تاریخی حضرت امام(ره) در سال ۱۳۶۷)",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+        ]
+      },
+
       26: {
         taatil: 0,
         monasebat: [
@@ -2163,6 +2270,12 @@ const MonasebatHa = {
         monasebat: [
           {
             text: "سالروز حماسه‌ی مردم آمل",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+          {
+            text: "روز آواها و نواهای ایرانی - روز بزرگداشت صفی‌الدّین اُرمَوی",
             taatil: 0,
             year: 0,
             asli: 1
@@ -2304,6 +2417,12 @@ const MonasebatHa = {
       8: {
         taatil: 0,
         monasebat: [
+          {
+            text: "روز حمایت از بیماران نادر",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
           {
             text: "روز امور تربیتی و تربیت اسلامی",
             taatil: 0,
@@ -2461,7 +2580,6 @@ const MonasebatHa = {
 
 
 
-
   ghamari: {
     1 /*محرّم*/: {
       1: {
@@ -2469,6 +2587,12 @@ const MonasebatHa = {
         monasebat: [
           {
             text: "آغاز سال هجری قمری (اوّل ماه محرّم)",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+          {
+            text: "روز شعر و ادبیات آیینی - روز بزرگداشت محتشم کاشانی",
             taatil: 0,
             year: 0,
             asli: 1
@@ -2613,17 +2737,7 @@ const MonasebatHa = {
         ]
       },
 
-      29: {
-        taatil: 1,
-        monasebat: [
-          {
-            text: "شهادت حضرت امام رضا علیه‌السلام",
-            taatil: 1,
-            year: 0,
-            asli: 1
-          },
-        ]
-      },
+
 
 
 
@@ -2886,7 +3000,7 @@ const MonasebatHa = {
             text: "روز پدر - روز مرد",
             taatil: 0,
             year: 0,
-            asli: 0
+            asli: 1
           },
         ]
       },
@@ -2968,6 +3082,12 @@ const MonasebatHa = {
             text: "ولادت حضرت امام زین‌العابدین علیه‌السلام",
             taatil: 0,
             year: 38,
+            asli: 1
+          },
+          {
+            text: "روز صحیفه سجّادیه",
+            taatil: 0,
+            year: 0,
             asli: 1
           },
         ]
@@ -3056,6 +3176,12 @@ const MonasebatHa = {
             text: "ضربت‌خوردن حضرت امام علی علیه‌السلام",
             taatil: 0,
             year: 40,
+            asli: 1
+          },
+          {
+            text: "روز نهج‌البلاغه",
+            taatil: 0,
+            year: 0,
             asli: 1
           },
         ]
@@ -3189,6 +3315,12 @@ const MonasebatHa = {
             year: 173,
             asli: 1
           },
+          {
+            text: "آغاز دهه‌ی کرامت",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
         ]
       },
 
@@ -3234,30 +3366,6 @@ const MonasebatHa = {
         ]
       },
 
-      29: {
-        taatil: 0,
-        monasebat: [
-          {
-            text: "آخرین روز (29 یا 30) ماه ذی‌القعده: شهادت حضرت امام محمد تقی علیه‌السلام «جوادالائمه»",
-            taatil: 0,
-            year: 148,
-            asli: 1
-          },
-        ]
-      },
-
-      30: {
-        taatil: 0,
-        monasebat: [
-          {
-            text: "شهادت حضرت امام محمد تقی علیه‌السلام «جوادالائمه»",
-            taatil: 0,
-            year: 220,
-            asli: 1
-          },
-        ]
-      },
-
     },
 
 
@@ -3284,7 +3392,7 @@ const MonasebatHa = {
         taatil: 0,
         monasebat: [
           {
-            text: "شهادت مظلومانه‌ی زائران خانه‌ی خدا به دست مأموران آل‌سعود در سال 1366 هجری‌شمسی",
+            text: "شهادت مظلومانه‌ی زائران خانه‌ی خدا به دست مأموران آل‌سعود در سال ۱۳۶۶ هجری‌شمسی",
             taatil: 0,
             year: 1407,
             asli: 1
@@ -3322,6 +3430,12 @@ const MonasebatHa = {
           {
             text: "عید سعید قربان",
             taatil: 1,
+            year: 0,
+            asli: 1
+          },
+          {
+            text: "آغاز دهه‌ی امامت و ولایت",
+            taatil: 0,
             year: 0,
             asli: 1
           },
@@ -3392,6 +3506,7 @@ const MonasebatHa = {
 
 
   },
+
 
 
 
@@ -3721,6 +3836,18 @@ const MonasebatHa = {
         monasebat: [
           {
             text: "روز جهانی علم در خدمت صلح و توسعه",
+            taatil: 0,
+            year: 0,
+            asli: 1
+          },
+        ]
+      },
+
+      21: {
+        taatil: 0,
+        monasebat: [
+          {
+            text: "روز حکمت و فلسفه - روز بزرگداشت ابونصر فارابی",
             taatil: 0,
             year: 0,
             asli: 1
